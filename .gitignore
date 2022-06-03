@@ -1,0 +1,5 @@
+**.bak
+dataset/.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
+subdataset/.ipynb_checkpoints/
+.ipynb_checkpoints/
