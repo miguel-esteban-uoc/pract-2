@@ -15,7 +15,7 @@ Para arrancar, desde el directorio raiz :
 
 Después del arranque por consola ofrece una ruta del tipo 
 
-`http://9f6f26c2d0e3:8888/lab?token=e2c874bc5027f5841441fda4dc8fd7081393bdf1792491fb`
+`http://127.0.0.1:8888/lab?token=e2c874bc5027f5841441fda4dc8fd7081393bdf1792491fb`
 
 
 Utilizar un navegador para acceder al notebook
