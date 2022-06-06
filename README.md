@@ -3,7 +3,7 @@
 
 Práctica II de la asignatura de Tipólogía y ciclo de vida de los datos, segundo semestre de 2022. 
 
-> _**TODO!!!**_
+Elaborar un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas.
 
 
 ## Componentes de la práctica
