@@ -14,7 +14,8 @@ Práctica II de la asignatura de Tipólogía y ciclo de vida de los datos, segun
 
 La guía de la práctica se encuentra en la siguiente ruta:
 
-> _**TODO!!!**_
+ - [**`doc/doc-pract-2.pdf`**](doc/doc-pract-2.pdf). Los fuentes de este documento es el notebook de jupyter [`notebook/doc-pract-2.ipynb`](notebook/doc-pract-2.ipynb)
+
 
 ## Descripción de los ficheros fuente
 
@@ -24,7 +25,11 @@ Con respecto a como ejecutar el notebook utilizando [docker](https://www.docker.
 
 El notebook con el código se encuentra en el directorio
 
- - [`notebook/pract-2.ipynb`](notebook/pract-2.ipynb)
+ - [**`notebook/pract-2.ipynb`**](notebook/pract-2.ipynb)
+ 
+Por facilidad, se adjunta en este repositorio una exportación del resultado de la ejecución en formato PDF:
+
+ - [`doc/pract-2-export.pdf`](doc/pract-2-export.pdf)
  
   
  ### Dataset 
